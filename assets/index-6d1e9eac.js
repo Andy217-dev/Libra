@@ -9138,7 +9138,7 @@ const Gu = "https://twitter.com/LIBRA_Officials",
           className: "md:flex hidden items-center justify-center gap-10",
           children: [
             v.jsx("a", {
-              href: "https://x.com/bennyjohnson/status/1761499269960290613?s=46",
+              href: "https://x.com/elonmusk/status/1787654457339342932?s=46",
               children: "About",
             }),
             v.jsx("a", { href: Gu, children: "Twitter" }),
@@ -9146,7 +9146,7 @@ const Gu = "https://twitter.com/LIBRA_Officials",
           ],
         }),
         v.jsx("a", {
-          href: "https://x.com/bennyjohnson/status/1761499269960290613?s=46",
+          href: "https://x.com/elonmusk/status/1787654457339342932?s=46",
           className: "md:flex hidden",
           children: v.jsx("button", {
             className:
@@ -9174,13 +9174,13 @@ const Gu = "https://twitter.com/LIBRA_Officials",
                 "gap-4 z-10 justify-center flex flex-col items-center flex-initial w-[200px] absolute top-12 right-0 rounded-xl glass-effect md:hidden py-5 ",
               children: [
                 v.jsx("a", {
-                  href: "https://x.com/bennyjohnson/status/1761499269960290613?s=46",
+                  href: "https://x.com/elonmusk/status/1787654457339342932?s=46",
                   children: "About",
                 }),
                 v.jsx("a", { href: Gu, children: "Twitter" }),
                 v.jsx("a", { href: Yu, children: "Telegram" }),
                 v.jsx("a", {
-                  href: "https://x.com/bennyjohnson/status/1761499269960290613?s=46",
+                  href: "https://x.com/elonmusk/status/1787654457339342932?s=46",
                   className: "",
                 }),
               ],
