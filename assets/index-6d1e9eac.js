@@ -9120,7 +9120,7 @@ function Hd(e) {
   })(e);
 }
 const Gu = "https://twitter.com/LIBRA_Officials",
-  Yu = "https://t.me/MakeArgentinaGreatAgain",
+  Yu = "https://t.me/libraoneth",
   Wd = () => {
     const [e, t] = nl.useState(!1);
     return v.jsxs("div", {
@@ -9223,17 +9223,7 @@ const Kd = () =>
                 className:
                   "sm:text-base sm:text-center text-center text-base font-normal max-w-[500px] text-[#fff]",
                 children: ["LIBRA"],
-              }),
-              v.jsx("a", {
-                href: "https://dexscreener.com/ethereum/",
-                target: "_blank",
-                rel: "noopener noreferrer",
-                children: v.jsx("p", {
-                  className:
-                    "sm:text-lg sm:text-left text-center underline text-[12px] font-normal text-[#fff]",
-                  children: "CA:",
-                }),
-              }),
+              }),          
               v.jsx("div", {
                 children: v.jsx("div", {
                   className: "flex gap-3",
@@ -9423,7 +9413,7 @@ const Xu = ({ icon: e, title: t, subtitle: n, bg: r }) =>
                 className: "flex gap-4",
                 children: [
                   v.jsx("a", {
-                    href: "https://Twitter.com/Maga_Officials",
+                    href: "https://x.com/libraoneth",
                     children: v.jsx("button", {
                       className:
                         "bg-[#ffffff] text-[#000000] p-[0.625rem] px-4 border-[0.5px] rounded-[1rem] border-[#] flex items-center gap-[0.62rem]",
@@ -9431,7 +9421,7 @@ const Xu = ({ icon: e, title: t, subtitle: n, bg: r }) =>
                     }),
                   }),
                   v.jsx("a", {
-                    href: "https://t.me/MakeArgentinaGreatAgain",
+                    href: "https://t.me/libraoneth",
                     children: v.jsx("button", {
                       className:
                         "bg-[#ffffff] text-[#000000] p-[0.625rem] px-4 border-[0.5px] rounded-[1rem] border-[#] flex items-center gap-[0.62rem]",
@@ -9450,8 +9440,8 @@ const Xu = ({ icon: e, title: t, subtitle: n, bg: r }) =>
         ],
       }),
     }),
-  Jd = "https://t.me/MakeArgentinaGreatAgain",
-  qd = "https://Twitter.com/Maga_Officials",
+  Jd = "https://t.me/libraoneth",
+  qd = "https://x.com/libraoneth",
   bd = () =>
     v.jsxs("div", {
       className:
