@@ -9146,12 +9146,12 @@ const Gu = "https://twitter.com/LIBRA_Officials",
           ],
         }),
         v.jsx("a", {
-          href: "https://x.com/elonmusk/status/1787654457339342932?s=46",
+          href: "https://www.dextools.io/app/en/ether/pool-explorer",
           className: "md:flex hidden",
           children: v.jsx("button", {
             className:
               "bg-[#ffff] text-[#424242] p-[0.625rem] px-4 border-[0.5px] rounded-[1rem] flex items-center gap-[0.62rem]",
-            children: "Tweet",
+            children: "Dextools",
           }),
         }),
         e
