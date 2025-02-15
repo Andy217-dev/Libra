@@ -8995,7 +8995,7 @@ sc(), (os.exports = ge);
 var Ad = os.exports,
   Qu = Ad;
 (Yl.createRoot = Qu.createRoot), (Yl.hydrateRoot = Qu.hydrateRoot);
-const Ud = "/assets/logo-ff5bb9f0.jpg";
+const Ud = "/assets/logo.jpg";
 var ac = {
     color: void 0,
     size: void 0,
