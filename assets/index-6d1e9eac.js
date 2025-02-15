@@ -9222,7 +9222,7 @@ const Kd = () =>
               v.jsx("p", {
                 className:
                   "sm:text-center text-center sm:text-[8rem] font-bold max-w-[500px] text-[#fff]",
-                children: "CA : 0xComingSoon",
+                children: "CA : 0xe7b30bd71c0e4d696f4164099cd9f90c0cfeb46b",
               }),
               v.jsxs("p", {
                 className:
@@ -9233,7 +9233,7 @@ const Kd = () =>
                 children: v.jsx("div", {
                   className: "flex gap-3",
                   children: v.jsx("a", {
-                    href: "https://app.uniswap.org/swap?inputCurrency=eth&outputCurrency=0xComingSoon&chain=mainnet",
+                    href: "https://app.uniswap.org/swap?inputCurrency=eth&outputCurrency=0xe7b30bd71c0e4d696f4164099cd9f90c0cfeb46b&chain=mainnet",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     children: v.jsx("button", {
