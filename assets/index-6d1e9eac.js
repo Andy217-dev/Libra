@@ -8995,7 +8995,7 @@ sc(), (os.exports = ge);
 var Ad = os.exports,
   Qu = Ad;
 (Yl.createRoot = Qu.createRoot), (Yl.hydrateRoot = Qu.hydrateRoot);
-const Ud = "/assets/logo.jpg";
+const Ud = "/assets/logo-ff5bb9f0.jpg";
 var ac = {
     color: void 0,
     size: void 0,
@@ -9119,7 +9119,7 @@ function Hd(e) {
     ],
   })(e);
 }
-const Gu = "https://twitter.com/LIBRA_Officials",
+const Gu = "https://x.com/libraoneth",
   Yu = "https://t.me/libraoneth",
   Wd = () => {
     const [e, t] = nl.useState(!1);
