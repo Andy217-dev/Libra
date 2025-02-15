@@ -9219,6 +9219,11 @@ const Kd = () =>
                   "max-w-[600px] font-bold text-center sm:text-center  sm:text-[11rem] text-9xl  hero-text",
                 children: "LIBRA",
               }),
+              v.jsx("p", {
+                className:
+                  "sm:text-center text-center sm:text-[8rem] font-bold max-w-[500px] text-[#fff]",
+                children: "CA : 0xComingSoon",
+              }),
               v.jsxs("p", {
                 className:
                   "sm:text-base sm:text-center text-center text-base font-normal max-w-[500px] text-[#fff]",
@@ -9228,7 +9233,7 @@ const Kd = () =>
                 children: v.jsx("div", {
                   className: "flex gap-3",
                   children: v.jsx("a", {
-                    href: "https://dexscreener.com/ethereum/",
+                    href: "https://app.uniswap.org/swap?inputCurrency=eth&outputCurrency=0xComingSoon&chain=mainnet",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     children: v.jsx("button", {
