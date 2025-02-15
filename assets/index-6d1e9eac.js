@@ -9146,7 +9146,7 @@ const Gu = "https://x.com/libraoneth",
           ],
         }),
         v.jsx("a", {
-          href: "https://www.dextools.io/app/en/ether/pool-explorer",
+          href: "https://www.dextools.io/app/en/ether/pair-explorer/0x112ef17f3e40404d65c5d44d87e6e344b54e68dd?t=1739578531588",
           className: "md:flex hidden",
           children: v.jsx("button", {
             className:
